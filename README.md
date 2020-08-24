@@ -1,4 +1,4 @@
-# Project: Burger Builder
+# Project: My Burger
 
 This is a project for building a burger builder, where a user can add/remove ingredients required for a burger. Once done a total amount will be shown and a user can make an order. 
 
